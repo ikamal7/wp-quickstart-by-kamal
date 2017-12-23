@@ -128,6 +128,8 @@ require get_template_directory() . '/inc/tgm/example.php';
  * CodeStar Framework
  */
 require get_template_directory() . '/inc/codestar/cs-framework.php';
+require get_template_directory() . '/inc/cs-metabox.php';
+require get_template_directory() . '/inc/cs-theme-options.php';
 
 
 
